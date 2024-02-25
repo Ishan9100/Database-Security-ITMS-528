@@ -61,11 +61,15 @@ Robust encryption mechanisms are in place for both data at rest and in transit w
 
 This project delivers a database with the implementation of NIST Risk Management Framework controls. With over a thousand entries and more than five users, the database comprises a minimum of seven tables. MySQL and SQL Workbench were used for database creation and control scheme implementation. The Project Management Plan was developed using Project Libre/Microsoft Project.
 
-## Roles & Responsibilities
 
-- DBA Administrator: Ishan Prabhune
-- Project Manager: Pratik Darade
-- DBA Manager: Harshal Sawant
+## Contributors
+
+This project was made possible by the following contributors:
+
+- [Ishan Prabhune](https://github.com/Ishan9100) - DBA Administrator
+- [Harshal Sawant](https://github.com/harshalsawant29) - DBA Manager
+- [Pratik Darade](https://github.com/pratik26darade) - Project Manager
+
 
 ## Project Schedule
 
