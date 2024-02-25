@@ -3,13 +3,13 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Contributors](#contributors)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Implementation Details](#implementation-details)
 - [Access Controls Implemented](#access-controls-implemented)
 - [Data Encryption](#data-encryption)
 - [Project Management Plan (PMP)](#project-management-plan-pmp)
-- [Roles & Responsibilities](#roles--responsibilities)
 - [Project Schedule](#project-schedule)
 - [References](#references)
 
@@ -17,6 +17,15 @@
 
 The **Database Security and Compliance Implementation** project aims to design and implement a database system that complies with NIST Special Publication 800-53 regulations. This project serves as a learning opportunity to deepen understanding of database security, compliance, and efficient project administration. The implementation includes a comprehensive project management plan, robust data encryption techniques, and a MySQL database with stringent security measures. By incorporating NIST SP 800-53 measures, the project underscores the commitment to industry-standard security requirements.
 
+## Contributors
+
+This project was made possible by the following contributors:
+
+- [Ishan Prabhune](https://github.com/Ishan9100) 
+- [Harshal Sawant](https://github.com/harshalsawant29) 
+- [Pratik Darade](https://github.com/pratik26darade)
+- [Hrishikesh Pawar](https://github.com/hrishikesh26)
+  
 ## Features
 
 - Data encryption techniques
@@ -66,9 +75,10 @@ This project delivers a database with the implementation of NIST Risk Management
 
 This project was made possible by the following contributors:
 
-- [Ishan Prabhune](https://github.com/Ishan9100) - DBA Administrator
-- [Harshal Sawant](https://github.com/harshalsawant29) - DBA Manager
-- [Pratik Darade](https://github.com/pratik26darade) - Project Manager
+- [Ishan Prabhune](https://github.com/Ishan9100) 
+- [Harshal Sawant](https://github.com/harshalsawant29) 
+- [Pratik Darade](https://github.com/pratik26darade)
+- [Hrishikesh Pawar](https://github.com/hrishikesh26) 
 
 
 ## Project Schedule
