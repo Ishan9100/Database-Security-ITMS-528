@@ -74,17 +74,6 @@ Robust encryption mechanisms are in place for both data at rest and in transit w
 
 This project delivers a database with the implementation of NIST Risk Management Framework controls. With over a thousand entries and more than five users, the database comprises a minimum of seven tables. MySQL and SQL Workbench were used for database creation and control scheme implementation. The Project Management Plan was developed using Project Libre/Microsoft Project.
 
-
-## Contributors
-
-This project was made possible by the following contributors:
-
-- [Ishan Prabhune](https://github.com/Ishan9100) 
-- [Harshal Sawant](https://github.com/harshalsawant29) 
-- [Pratik Darade](https://github.com/pratik26darade)
-- [Hrishikesh Pawar](https://github.com/hrishikesh26) 
-
-
 ## Project Schedule
 
 The Project Schedule serves as a detailed roadmap for the project, enabling effective coordination and progress monitoring.
