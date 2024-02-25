@@ -1,5 +1,9 @@
 # Database Security and Compliance Implementation
 
+## Affiliation
+
+This project is affiliated with the Illinois Institute of Technology (IIT). It was developed as part of the coursework for ITMS 528: Database Security.
+
 ## Table of Contents
 
 - [Overview](#overview)
